@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Singh</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw0XrqtPdF9WuzC73m2Xpgh2&ust=1691167855279000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC0jaz5wIADFQAAAAAdAAAAABAf](https://images.app.goo.gl/n7Jvhm7PY2V44sum9)">
+<img align="right" alt="coding" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw0XrqtPdF9WuzC73m2Xpgh2&ust=1691167855279000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC0jaz5wIADFQAAAAAdAAAAABAf](https://images.app.goo.gl/n7Jvhm7PY2V44sum9)](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulsingh01&label=Profile%20views&color=0e75b6&style=flat" alt="anshulsingh01" /> </p>
 
